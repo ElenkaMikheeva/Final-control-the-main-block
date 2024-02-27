@@ -1,0 +1,15 @@
+C:\мое\Education\I\GeekBrains\Разработчик\1 четверть\C#\Projects\Final_control_work\obj\Debug\net6.0\Final_control_work.csproj.AssemblyReference.cache
+C:\мое\Education\I\GeekBrains\Разработчик\1 четверть\C#\Projects\Final_control_work\obj\Debug\net6.0\Final_control_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\мое\Education\I\GeekBrains\Разработчик\1 четверть\C#\Projects\Final_control_work\obj\Debug\net6.0\Final_control_work.AssemblyInfoInputs.cache
+C:\мое\Education\I\GeekBrains\Разработчик\1 четверть\C#\Projects\Final_control_work\obj\Debug\net6.0\Final_control_work.AssemblyInfo.cs
+C:\мое\Education\I\GeekBrains\Разработчик\1 четверть\C#\Projects\Final_control_work\obj\Debug\net6.0\Final_control_work.csproj.CoreCompileInputs.cache
+C:\мое\Education\I\GeekBrains\Разработчик\1 четверть\C#\Projects\Final_control_work\bin\Debug\net6.0\Final_control_work.exe
+C:\мое\Education\I\GeekBrains\Разработчик\1 четверть\C#\Projects\Final_control_work\bin\Debug\net6.0\Final_control_work.deps.json
+C:\мое\Education\I\GeekBrains\Разработчик\1 четверть\C#\Projects\Final_control_work\bin\Debug\net6.0\Final_control_work.runtimeconfig.json
+C:\мое\Education\I\GeekBrains\Разработчик\1 четверть\C#\Projects\Final_control_work\bin\Debug\net6.0\Final_control_work.dll
+C:\мое\Education\I\GeekBrains\Разработчик\1 четверть\C#\Projects\Final_control_work\bin\Debug\net6.0\Final_control_work.pdb
+C:\мое\Education\I\GeekBrains\Разработчик\1 четверть\C#\Projects\Final_control_work\obj\Debug\net6.0\Final_control_work.dll
+C:\мое\Education\I\GeekBrains\Разработчик\1 четверть\C#\Projects\Final_control_work\obj\Debug\net6.0\refint\Final_control_work.dll
+C:\мое\Education\I\GeekBrains\Разработчик\1 четверть\C#\Projects\Final_control_work\obj\Debug\net6.0\Final_control_work.pdb
+C:\мое\Education\I\GeekBrains\Разработчик\1 четверть\C#\Projects\Final_control_work\obj\Debug\net6.0\Final_control_work.genruntimeconfig.cache
+C:\мое\Education\I\GeekBrains\Разработчик\1 четверть\C#\Projects\Final_control_work\obj\Debug\net6.0\ref\Final_control_work.dll
